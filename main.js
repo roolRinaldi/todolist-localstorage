@@ -31,6 +31,7 @@ window.addEventListener('load', () => {
 
         DisplayTodos();
     })
+    DisplayTodos();
 })
 
 function DisplayTodos() {
